@@ -1,0 +1,50 @@
+ion-radio {
+  --background-checked: #004682;
+  --border-color-checked: white;
+  --border-width-checked: 2px;
+  --border-radius: 10px;
+  --padding-start: 0;
+  --padding-end: 0;
+}
+
+ion-radio .radio-icon {
+  display: none;
+}
+
+ion-radio .item-inner {
+  display: none;
+}
+ion-checkbox {
+  --size: 32px;
+  --checkbox-background-checked: white;
+}
+
+.custom-button {
+  width: 128px;
+  height: 60px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+ion-button {
+  --background: #004682;
+  --background-hover: #004682;
+  --background-activated: #004682;
+  --background-focused: #004682;
+
+  --color: white;
+
+  --border-radius: 20px;
+  --border-color: #000;
+  --border-style: solid;
+  --border-width: 1px;
+
+  --box-shadow: 0 2px 6px 0 rgb(0, 0, 0, 0.25);
+
+  --padding-top: 0;
+  --padding-bottom: 0;
+
+  width: 130px;
+  height: 60px;
+  text-align: center;
+}

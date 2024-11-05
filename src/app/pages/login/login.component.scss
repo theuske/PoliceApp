@@ -1,0 +1,23 @@
+.container-login{
+  background-color: #0E2366;
+  height: 100%;
+  width: 100%;
+}
+placeholder {
+  color: white;
+}
+input {
+  border: none;
+  border-bottom: 5px solid white;
+  font-size: 40px;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  width: 80%;
+  background: none;
+  text-align: center;
+  outline: none;
+}
+
+input:focus {
+  outline: none;
+}
